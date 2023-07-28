@@ -12,7 +12,7 @@ int main() {
 
     while (true) {
         if (buttonPressed) {
-            printf("Button pressed.\r\n");
+            printf("Button Pressed.\r\n");
             buttonPressed = false; // Reset the flag after printing the message.
         }
     }
